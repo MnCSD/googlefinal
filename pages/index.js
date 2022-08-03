@@ -46,7 +46,7 @@ export default function Home() {
 
           {/*Avatar*/}
 
-          <Avatar url="https://avatars.githubusercontent.com/u/24712956?v=4 " />
+          <Avatar url="https://cdn-icons-png.flaticon.com/512/3135/3135715.png " />
         </div>
       </header>
 
@@ -76,7 +76,7 @@ export default function Home() {
             Google Search
           </button>
           <button className="btn" onClick={search}>
-            I'm Feeling Lucky
+            {"I'm Feeling Lucky"}
           </button>
         </div>
       </form>
