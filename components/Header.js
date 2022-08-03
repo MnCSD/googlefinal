@@ -52,7 +52,7 @@ const Header = () => {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://avatars.githubusercontent.com/u/24712956?v=4"
+          url="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
         />
       </div>
 
